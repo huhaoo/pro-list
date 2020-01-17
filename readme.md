@@ -141,7 +141,7 @@
 - [ ] agc022_e
 - [ ] cf555E
 - [x] agc032_e
-- [ ] agc023_d
+- [x] agc023_d
 - [ ] cf506C
 - [ ] cf679E
 - [ ] arc098_f
